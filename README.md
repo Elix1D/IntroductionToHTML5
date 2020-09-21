@@ -1,4 +1,4 @@
 # IntroductionToHTML5 
 Assignment for the Coursera course final project
 
-# Link to the website [CLICK HERE](https://elix1d.github.io/IntroductionToHTML5/site.html)
+# Link to the website [CLICK HERE](https://elix1d.github.io/IntroductionToHTML5/final_project/index.html)
