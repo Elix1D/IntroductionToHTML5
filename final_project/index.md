@@ -12,10 +12,10 @@
     <header>
         <h1>Elisa Parini</h1>
         <nav>
-            <a href = "http://http://www.coursera.org">One</a>
+            <a href = "https://www.coursera.org/">One</a>
             <a href = "http://www.google.com">Two</a>
-            <a href = "https://www.linkedin.com/">Three</a>
-            <a href = "http://https://github.com/Elix1D/IntroductionToHTML5/tree/master/final_project">Final Project</a><br>
+            <a href = "https://it.linkedin.com">Three</a>
+            <a href = "https://github.com/Elix1D/IntroductionToHTML5">Final Project</a><br>
     </nav>
     </header>
     
